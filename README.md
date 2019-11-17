@@ -1,6 +1,6 @@
 # MealTicket
-Front end design for grocery list web app called Meal Ticket
-I made the Meal Ticket logo
+Front end design for grocery list web app called Meal Ticket by me.<br>
+I made the Meal Ticket logo as well.
 
 <b>Splash Page</b>
 <img src="http://themcmorrislife.com/mealticket/splash.PNG" alt="splash page"></img>
